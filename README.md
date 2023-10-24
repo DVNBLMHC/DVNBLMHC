@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Devin aka DVNBLMHC</h1>
+<h1 align="center">Hi, ich bin Devin</h1>
 <h3 align="center">Ein FiSi-Azubi aus Potsdam</h3>
 
 <p align="left"> <a href="https://twitter.com/devinsgedanken" target="blank"><img src="https://img.shields.io/twitter/follow/devinsgedanken?logo=twitter&style=for-the-badge" alt="devinsgedanken" /></a> </p>
